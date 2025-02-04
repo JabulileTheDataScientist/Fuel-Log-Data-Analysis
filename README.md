@@ -1,2 +1,2 @@
 # Fuel-Log-Data-Analysis
-This study analyses a dataset of fuel logs, derived from a user-driven logbook platform that captures fuel refills, costs, mileage, and vehicle maintenance records.
+This study analyses a dataset of fuel logs sourced from a user-driven logbook platform that records fuel refills, costs, mileage, and vehicle maintenance details. The project incorporates a raw and unstructured dataset, scraped directly from a website where users track their fuel consumption. It is specifically designed to demonstrate my advanced data cleaning skills using Python.
